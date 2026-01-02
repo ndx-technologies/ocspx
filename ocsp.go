@@ -1,4 +1,4 @@
-package jws
+package ocspx
 
 import (
 	"bytes"
